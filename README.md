@@ -62,6 +62,13 @@
         </td>
     </tr>
     <tr>
+        <td>AI Modeling</td>
+        <td>
+            <img src="https://img.shields.io/badge/Pytorch-#EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+        </td>
+    </tr>
+    <tr>
         <td>Collaboration Tools</td>
         <td>
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
